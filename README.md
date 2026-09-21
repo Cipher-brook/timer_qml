@@ -1,1 +1,1 @@
-# TimerQml cекундомер
+# TimerQml
